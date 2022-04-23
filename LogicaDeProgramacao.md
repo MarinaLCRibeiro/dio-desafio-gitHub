@@ -1,6 +1,6 @@
 # Lógica de Programação
 
-##Pontos mais importantes
+## Pontos mais importantes
 
 
 
